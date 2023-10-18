@@ -12,3 +12,6 @@
 - `gh`, github, `https://github.com/search?q=%s`
 - `sp`, soupian.pro, `https://soupian.pro/search?key=%s`
 - `db`, douban, `https://www.douban.com/search?q=%s`
+
+## tools
+- Magnet, organize all your windows at ease https://magnet.crowdcafe.com/index.html
