@@ -15,3 +15,7 @@
 
 ## tools
 - Magnet, organize all your windows at ease https://magnet.crowdcafe.com/index.html
+
+## setup guide
+- mac https://sourabhbajaj.com/mac-setup/
+- windows https://dev.to/stephanlamoureux/the-complete-windows-developer-setup-guide-fie
